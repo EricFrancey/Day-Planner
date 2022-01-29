@@ -10,7 +10,7 @@ Work in progress.
 https://ericfrancey.github.io/Day-Planner/
 
 ## Screenshot
-  ![Alt text](assets/plannerscreen1.png?raw=true "Screenshot")
+  ![Alt text](Assets/plannerscreen1.png?raw=true "Screenshot")
 
   
 ## Credits
